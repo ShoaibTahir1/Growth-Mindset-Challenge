@@ -1,0 +1,10 @@
+[project]
+name = "Datacleaner"
+version = "0.1.0"
+description = "Data Sweeper project"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "click>=8.1.8",
+    "streamlit>=1.43.1",
+]
