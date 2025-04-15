@@ -6,7 +6,7 @@ Excel Wizard is a powerful and user-friendly Streamlit application that allows u
 •	🔄 Convert files between Excel and CSV formats
 •	🧹 Data cleaning options:
 	o	Remove duplicates
- o	Fill missing values
+ 	o	Fill missing values
 •	📊 Data visualization with interactive charts
 •	🎛️ Column selection for customized output
 •	📥 Easy download of converted files
